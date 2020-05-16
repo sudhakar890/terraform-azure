@@ -5,6 +5,7 @@
 * Azure subscription
 * Azure CLI
 * Terraform
+* Create a Key valut in Azure with name **webserver-vault** and create a secret with name **admin-password** which contains VM password
 
 ## To provision resources
 ``` bash
